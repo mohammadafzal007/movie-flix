@@ -1,0 +1,16 @@
+{
+  "files": {
+    "main.css": "/movie-flix/static/css/main.2c5b7aee.css",
+    "main.js": "/movie-flix/static/js/main.637e06c7.js",
+    "static/js/787.07afa7df.chunk.js": "/movie-flix/static/js/787.07afa7df.chunk.js",
+    "static/media/error1.jpg": "/movie-flix/static/media/error1.325e4049ded7ad00ee80.jpg",
+    "index.html": "/movie-flix/index.html",
+    "main.2c5b7aee.css.map": "/movie-flix/static/css/main.2c5b7aee.css.map",
+    "main.637e06c7.js.map": "/movie-flix/static/js/main.637e06c7.js.map",
+    "787.07afa7df.chunk.js.map": "/movie-flix/static/js/787.07afa7df.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.2c5b7aee.css",
+    "static/js/main.637e06c7.js"
+  ]
+}
